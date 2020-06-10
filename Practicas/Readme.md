@@ -10,10 +10,10 @@ Prácticas y tutoriales (Abr-Jun 2020):
     - Pr5-Visualización.md - Mecanismo de notificación/suscripción en el OCB y creación de un tablero para visualizar datos
 
 3. Grafos y redes
-      - Pr5-Visualización.md - Tutorial de Gephi para visualizar grafos
+      - Pr6-Gephi.md - Tutorial de Gephi para visualizar grafos
   
 4. Análisis de texto
-     - Pr6-AzureTextAnalytics.md - Introducción al Análisis de Textos en la nube Microsoft Azure
-     - Pr7-VisualText.md - Tutorial extracción de textos con VisualText
+     - Pr7-AzureTextAnalytics.md - Introducción al Análisis de Textos en la nube Microsoft Azure
+     - Pr8-VisualText.md - Tutorial extracción de textos con VisualText
   
 5. Redes sociales
