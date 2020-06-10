@@ -205,7 +205,7 @@ El nombre sugerido para esta petición es **inserta-entidad**. La consulta tendr
 
 Si todo está correcto, al dar `Send` en el extremo derecho de Insomnia se debe observar el mensaje `201 CREATED` y el cuerpo de la respuesta debe estar vacío.
 
-![primerPost](imagenes/post1.jpg)
+![primerPost](imagenes/post1.JPG)
 
 
 
@@ -227,7 +227,7 @@ En Insomnia, es posible duplicar la consulta anterior y renombrarla. Hágalo as�
 
 Para el método GET,  sólo se especifica el URL, sin Body ni Content-type. En nuestra primer consulta pediremos todas las entidades almacenadas en el OCB hasta ahora.  Para ello, el URL que se utiliza es: `http://XX.XX.XX.XX:1026/v2/entities`: 
 
-!["Insomnia obtén todas"](imagenes/get1.jpg)
+!["Insomnia obtén todas"](imagenes/get1.JPG)
 
 #### Consultas acotadas.
 
