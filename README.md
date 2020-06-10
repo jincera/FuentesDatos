@@ -1,2 +1,3 @@
 # FuentesDatos
-Repositorio para el curso de Fuentes de Datos
+
+En este repositorio encontrará prácticas, tutoriales, presentaciones y sets de datos para el curso **Fuentes de Datos** que se imparte en el ITAM
