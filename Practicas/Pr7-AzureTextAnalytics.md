@@ -57,7 +57,7 @@ Ahora seleccione `Análisis de texto ` y cree un nuevo recurso llenando la plant
 
  
 
-![](imagenes/crear.jpg)
+![](imagenes/crear.JPG)
 
 No se desespere. La plataforma se toma un poco de tiempo para crear el recurso.
 
@@ -67,7 +67,7 @@ Para poder acceder a nuestro nuevo recurso, debemos contar con  un Punto de Inte
 
 Puede navegar, entrar a una interfaz Web para familiarizarse con las funcionalidades del recurso de Análisis de Texto, explorar más información, etcétera.  Para este taller, iremos directamente a `Ir a claves y punto de conexión`:
 
-![](imagenes/acceso.jpg)
+![](imagenes/acceso.JPG)
 
 Debe copiar las dos claves de acceso y el Punto de conexión en un archivo y **Guardarlo en algún lugar seguro, pero que sea fácilmente accesible por usted**. Los utilizaremos más adelante.  Observe que las Claves *no son claves de autenticación*. Es simplemente un identificador para validar el acceso a nuestro recurso.
 
@@ -107,7 +107,7 @@ https://familiarizaconanalisistexto.cognitiveservices.azure.com/text/analytics/v
 
 **B) Encabezados**.  Se debe agregar en el encabezado que el contenido del cuerpo del mensaje es JSON, así como la clave de acceso.  Puede utilizar cualquiera de las dos claves que descargó del recurso.   En Insomnia, la configuración de los encabezados se hace así:
 
-![](imagenes/hdrQuery.JPG)
+<img src="imagenes/hdrQuery.JPG" style="zoom:70%;" />
 
 Por supuesto, debe sustituir el valor "xxxx" por una de sus claves.
 
