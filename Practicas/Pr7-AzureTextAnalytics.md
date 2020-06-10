@@ -46,7 +46,7 @@ De clic en `Start Free`.  Le pedirá algunos datos pero ninguna cuenta de tarjet
 
 Una vez en el Portal, encontrará una página como la siguiente. De clic en `AI + aprendizaje automático`.
 
-![](imagenes/portalazure.JPG)
+![](imagenes/portalAzure.JPG)
 
 Ahora seleccione `Análisis de texto ` y cree un nuevo recurso llenando la plantilla que aparecerá. 
 
