@@ -31,7 +31,7 @@ Si está utilizando Windows, necesitará descargar el programa `PuTty` desde est
 
 Una vez instalada, lance la aplicación `PuTTY`, de clic en `Session` y ponga la dirección IP del servidor  Para no repetir este paso, puede guardar esta configuración en la sección `Saved Sessions`.
 
-![PuTTY conexión a Servidor](https://i.imgur.com/c0333rP.jpg))
+![PuTTY conexión a Servidor](imagenes/puttyx.JPG))
 
 De clic en `Open`. Se le solicitará un nombre de usuario y la contraseña.
 
