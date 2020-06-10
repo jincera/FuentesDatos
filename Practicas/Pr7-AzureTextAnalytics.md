@@ -107,7 +107,7 @@ https://familiarizaconanalisistexto.cognitiveservices.azure.com/text/analytics/v
 
 **B) Encabezados**.  Se debe agregar en el encabezado que el contenido del cuerpo del mensaje es JSON, así como la clave de acceso.  Puede utilizar cualquiera de las dos claves que descargó del recurso.   En Insomnia, la configuración de los encabezados se hace así:
 
-<img src="imagenes/hdrQuery.JPG" style="zoom:70%;" />
+<img src="imagenes/hdrQuery.JPG" style="zoom:50%;" />
 
 Por supuesto, debe sustituir el valor "xxxx" por una de sus claves.
 
