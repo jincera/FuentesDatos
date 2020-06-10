@@ -303,7 +303,7 @@ Body:
 
 Al verificar si se realizaron los cambios, volvemos a ejecutar el método GET y veremos que **posiblemente eso NO ERA lo que esperábamos**: 
 
-<img src="imagenes/get2.jpg" alt="GetDePutMal" style="zoom:67%;" />
+<img src="imagenes/get2.JPG" alt="GetDePutMal" style="zoom:67%;" />
 
 ¡Hemos perdido el atributo *fillingLevel*! Efectivamente, con el método **PUT**, si se omite un attributo, éste desaparece de la entidad. 
 
@@ -331,7 +331,7 @@ Header: Content-type:  application/json
 
 
 
-<img src="imagenes/get3.jpg" style="zoom:50%;" />
+<img src="imagenes/get3.JPG" style="zoom:50%;" />
 
 
 
@@ -500,7 +500,7 @@ GET http://XX.XX.XX.XX:1026/v2/entities?limit=3&offset=2&type=WasteContainer&opt
 ```
 
 
-![](imagenes/get4.jpg)
+![](imagenes/get4.JPG)
 
 Se pueden filtrar las consultas a partir del valor de algún atributo con la opción `q` (o el valor de un metadato con la opción `mq`). Por ejemplo, la siguiente consulta muestra todas las entidades en las que el atributo `temperature` es mayor a 32.5 grados.
 

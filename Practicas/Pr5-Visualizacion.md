@@ -36,7 +36,7 @@ En su lugar, es muy común utilizar un mecanismo a través del cual las entidade
 
 El OCB cuenta con un mecanismo de notificaciones **asíncrono**. Básicamente, una aplicación se **suscribe** en el OCB para manifestarle su interés en recibir notificaciones cuando "algo suceda".  Si la entidad tiene una actualización que coincide con la suscripción registrada, se envía una notificación a la aplicación correspondiente.  El diagrama de flujo es básicamente el siguiente:
 
-![](../../../NvasTecInal/imagenes/prf/flujosusc.jpg)
+![](imagenes/flujosusc.JPG)
 
 Este mecanismo es muy eficiente, pues por un lado reduce drásticamente el volumen de las consultas y el tráfico en la red. Por el otro, la aplicación encargada de recibir las notificaciones sólo se invocará cuando sea necesario.   
 
@@ -315,7 +315,7 @@ Losant es una plataforma muy poderosa para integración de proyectos de IoT que 
 
 1. Ingrese a la página de [Losant](https://www.losant.com/iot-platform/sandbox) y seleccione `IoT PLATFORM DEMOS/DEVELOPER SANDBOX`. De clic en `START BUILDING FOR FREE`
 
-![](../../../NvasTecInal/imagenes/pr9/losant1x.jpg)
+![](imagenes/losant1x.JPG)
 
 
 
@@ -323,7 +323,7 @@ Losant es una plataforma muy poderosa para integración de proyectos de IoT que 
 
 
 
-![](../../../NvasTecInal/imagenes/pr9/losant2x.jpg)
+![](imagenes/losant2x.JPG)
 
 3. Una vez que ha creado la cuenta, puede recorrer el tutorial (Losant Walkthrough, que merece mucho la pena) o dar clic directamente en  `Add Application/Blank Application`. En la forma que aparece, de un nombre representativo y de clic en `Create Application`.
 
