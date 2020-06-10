@@ -1,9 +1,9 @@
 Prácticas y tutoriales (Abr-Jun 2020):
 
 1. Big Data
-  - Pr1-Hadoop.md - Introducción a Hadoop MapReduce
-  - Pr2-HadoopQoS.md - Una aplicación de Hadoop MapReduce para analizar el mercado de dispositivos móviles
-  - Pr3-Pig.md - Tutorial de Apache Pig
+    - Pr1-Hadoop.md - Introducción a Hadoop MapReduce
+   - Pr2-HadoopQoS.md - Una aplicación de Hadoop MapReduce para analizar el mercado de dispositivos móviles
+    - Pr3-Pig.md - Tutorial de Apache Pig
 
 2. IoT
   - Pr4-TutorialOCB.md - Introducción al *Orion Context-Broker* de **Fiware**
