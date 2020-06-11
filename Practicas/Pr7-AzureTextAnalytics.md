@@ -46,7 +46,7 @@ De clic en `Start Free`.  Le pedirá algunos datos pero ninguna cuenta de tarjet
 
 Una vez en el Portal, encontrará una página como la siguiente. De clic en `AI + aprendizaje automático`.
 
-![](imagenes/portalazure.JPG)
+![](imagenes/portalAzure.JPG)
 
 Ahora seleccione `Análisis de texto ` y cree un nuevo recurso llenando la plantilla que aparecerá. 
 
@@ -107,7 +107,7 @@ https://familiarizaconanalisistexto.cognitiveservices.azure.com/text/analytics/v
 
 **B) Encabezados**.  Se debe agregar en el encabezado que el contenido del cuerpo del mensaje es JSON, así como la clave de acceso.  Puede utilizar cualquiera de las dos claves que descargó del recurso.   En Insomnia, la configuración de los encabezados se hace así:
 
-<img src="imagenes/hdrQuery.JPG" style="zoom:70%;" />
+<img src="imagenes/hdrQuery.JPG" style="zoom:50%;" />
 
 Por supuesto, debe sustituir el valor "xxxx" por una de sus claves.
 

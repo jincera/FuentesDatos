@@ -21,10 +21,10 @@ En el ITAM contamos con una sala de cómputo con instancias individuales de Hado
 
 Cada alumno tiene una cuenta en ese servidor. Su identificador es su apellido y los últimos dos dígitos de su clave única.  Por ejemplo, mi identificador es incera77.   Durante le sesión se le indicará cuál es la contraseña.  **Por favor cambie la contraseña con el comando `passwd`** cuando entre por primera vez al sistema.
 
-Se accede al servidor a través del protocolo `SSH` (Secure shell).  Si tiene Windows 10 con el subsistema Ubuntu (WSL) o una computadora MAC, puede invocar la conexión desde una ventana de comandos así:
+Se accede al servidor a través del protocolo `SSH` (Secure shell).  Si tiene Windows 10 con el subsistema Ubuntu (WSL) o una computadora MAC, puede invocar la conexión desde una ventana de comandos así (sustituya las xxx por la dirección que se le indique)x:
 
 ``` bash
-$ ssh jincera@148.205.176.167
+$ ssh jincera@xxx.xxx.xxx.xxx
 ```
 
 Si está utilizando Windows, necesitará descargar el programa `PuTty` desde esta dirección: [https://putty.org/](https://putty.org/).
