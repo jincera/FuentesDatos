@@ -205,7 +205,8 @@ La funcionalidad de Cognitive Services que estamos utilizando, nos devolverá un
 Para acceder a esta funcionalidad, los encabezados son igulaes y el URL cambia ligeramente porque el punto de conexión del recurso es `/sentiment` en vez `/languages`.  En el cuerpo del método se especifica el idioma y las frases del documento. Por ejemplo:
 
 ```json
-{{"documents": [
+{
+   "documents": [
     {"id": "1", "language": "es",
         "text": "¡Tuve una gran experiencia! Las habitaciones eran amplias, limpias y el personal muy amable."},
     {"id": "2", "language": "en",
