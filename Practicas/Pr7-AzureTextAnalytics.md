@@ -1,6 +1,6 @@
 # Fuentes de Información
 
-## Práctica 6: Text Analytics as a Service 
+## Práctica 7: Text Analytics as a Service 
 
 ### Introducción
 
@@ -489,6 +489,27 @@ El resultado es el siguiente:
 
 **EJERCICIO 7.** Veamos qué considera este módulo como relevante en el promocional de la MTIA.   Lance una consulta con los siguientes párrafos (un párrafo por documento) e indique cuántas frases distintas encontró en todo el documento.   
 
+
+
+
+
+
+> En este entorno de gran dinamismo, las organizaciones exitosas son aquellas que modifican su percepción de las TIC como simples proveedoras de servicios de soporte y buscan posicionarlas como un habilitador para la creación de nuevos productos y servicios, que contribuyan a la sustentabilidad de la organización.
+
+
+
+> La Maestría en Tecnologías de Información y Administración (MTIA) del ITAM forma profesionales de alto impacto capaces de integrar las TIC con los procesos de negocio, alineadas a la estrategia de la organización. Son líderes transversales que comprenden el entorno en el que la empresa se desenvuelve y detectan las oportunidades que las TIC ofrecen para elevar la competitividad de sus organizaciones.
+
+
+
+> El profesionista egresado de este programa está facultado para: Solucionar los problemas de negocio de las organizaciones a través del uso eficiente de las tecnologías de información y de comunicaciones; identificar oportunidades para agregar valor a la estrategia de negocio a través de las TCI; establecer un liderazgo activo en el proceso  de toma de decisiones y de gestión del cambio inducido por las TIC en la organización; analizar las implicaciones económicas, políticas, legales y éticas relacionadas con la puesta en operación y uso de las TIC; contribuir, a través de su desempeño profesional, a la formación de una sociedad más próspera, más libre y más justa.
+
+
+
+> El plan de estudios de la MTIA está dirigido a profesionales que buscan un posgrado de alta calidad sin tener que suspender su desarrollo profesional. Las materias del programa se ofrecen en un horario de 19:00 a 22:00 en periodos trimestrales. El alumno asiste a clases una vez por semana por cada materia que haya inscrito en el trimestre
+
+
+
 Comente brevemente sobre el resultado obtenido: ¿Cuáles palabras clave sí parecen tener sentido y cuáles no, si usted estuviera utilizando este sistema para clasificar/descartar documentos relacionados con estudios de posgrado en TI?
 
 ___
@@ -507,7 +528,7 @@ ___
 
 Esta es una funcionalidad interesante del Servicio Text Analytics para *enriquecer* la información disponible en un documento.  Busca identificar y clasificar entidades como *personas, lugares, organizaciones, fechas, cantidades, divisas*, entre otros. Para aquellas entidades que son bien conocidas, las vincula con información disponible en la Web, específicamente, con Wikipedia.
 
-Si solamente desea identificar entidades, el *endpoint* es `/recognition/general`.  Si lo que desea es ligar las entidades conocidas con información adicional, es `/linking`.
+Si solamente desea identificar entidades, el *endpoint* es `/entities/recognition/general`.  Si lo que desea es ligar las entidades conocidas con información adicional, es `/entities/linking`.
 
 Como de costumbre, el cuerpo del documento especifica el idioma, un identificador de documento y el texto a analizar:
 
